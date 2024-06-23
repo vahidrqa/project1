@@ -1,2 +1,2 @@
-# project1
+# ImageMatching
 Computer vision for segmentation
